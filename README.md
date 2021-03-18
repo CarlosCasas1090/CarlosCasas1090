@@ -1,0 +1,9 @@
+- 👋 Hello, my name is Carlos Casas,
+- 🤖 I’m a controls engineer living and working on Kentucky USA interested in ...
+- 🌱 I’m currently learning ...
+- 📫 How to reach me ...
+
+<!---
+CarlosCasas1090/CarlosCasas1090 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
